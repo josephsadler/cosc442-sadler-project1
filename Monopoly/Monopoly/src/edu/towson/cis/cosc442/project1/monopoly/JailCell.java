@@ -5,8 +5,4 @@ public class JailCell extends Cell {
 	public JailCell() {
 		setName("Jail");
 	}
-	
-	public boolean playAction(String msg) {
-		return false;
-	}
 }
